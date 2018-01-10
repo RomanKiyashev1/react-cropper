@@ -1,6 +1,6 @@
 {
   "name": "@roman_kiyashev/react-cropper",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Cropper as React components",
   "main": "dist/react-cropper.js",
   "scripts": {
@@ -30,7 +30,7 @@
     "url": "https://github.com/RomanKiyashev1/react-cropper.git"
   },
   "dependencies": {
-    "cropperjs": "1.2.0",
+    "cropperjs": "1.2.2",
     "prop-types": "^15.5.8"
   },
   "peerDependencies": {
