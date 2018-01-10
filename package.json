@@ -30,7 +30,7 @@
     "url": "https://github.com/RomanKiyashev1/react-cropper.git"
   },
   "dependencies": {
-    "cropperjs": "1.0.0",
+    "cropperjs": "1.1.0",
     "prop-types": "^15.5.8"
   },
   "peerDependencies": {
