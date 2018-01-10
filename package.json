@@ -1,6 +1,6 @@
 {
   "name": "@roman_kiyashev/react-cropper",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Cropper as React components",
   "main": "dist/react-cropper.js",
   "scripts": {
@@ -14,9 +14,9 @@
     "start": "babel-node server.js"
   },
   "author": "Fong Kuanghuei <waneblade@gmail.com>",
-  "homepage": "http://roadmanfong.github.io/react-cropper/",
+  "homepage": "https://github.com/RomanKiyashev1/react-cropper/",
   "bugs": {
-    "url": "https://github.com/roadmanfong/react-cropper/issues"
+    "url": "https://github.com/RomanKiyashev1/react-cropper/issues"
   },
   "keywords": [
     "react",
@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/roadmanfong/react-cropper.git"
+    "url": "https://github.com/RomanKiyashev1/react-cropper.git"
   },
   "dependencies": {
     "cropperjs": "1.0.0",
